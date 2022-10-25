@@ -1,0 +1,30 @@
+.carFormContainer{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #cecaca;
+}
+
+.carForm{
+    width: 400px;
+}
+
+.inputError {
+    border-color: red !important;
+}
+
+.inputFeedback {
+    color: red;
+    margin-top: .25rem;
+}
+
+.buttonSection {
+    display: flex;
+    justify-content: center;
+
+}
+
+.buttonSection > button {
+    margin-left: 5px;
+}

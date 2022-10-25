@@ -1,0 +1,29 @@
+.productColumn {
+    display: flex;
+    align-items: center;
+    text-align: left  !important;
+}
+.productColumn > img{
+    width: 150px;
+}
+
+.productColumn > div{
+    margin-left: 20px;
+}
+
+.carListContainer {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #cecaca;
+}
+
+.carListTable {
+    width: 800px;
+}
+
+.carListTable td {
+    text-align: center;
+    vertical-align:middle;
+}

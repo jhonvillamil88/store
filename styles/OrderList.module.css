@@ -1,0 +1,12 @@
+.orderListContainer{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin:0px;
+  height: 7%;
+}
+.orderList{
+    margin: 10px;
+    width: 180px;
+}
+  

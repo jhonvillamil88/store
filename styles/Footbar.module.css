@@ -1,0 +1,16 @@
+.footbarContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color:white;
+    height: 80px;
+    margin:0px;
+    height: 10%;
+
+
+}
+
+.footbarBody button{
+    margin-left: 30px;
+}

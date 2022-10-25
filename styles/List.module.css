@@ -1,0 +1,15 @@
+.ListContainer{
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    margin:30px;
+    overflow-y: scroll;
+    height: 71%;
+}
+
+.productNoAvalaible{
+    text-align: center;
+    width: 100%;
+    height: 71%;
+    margin:30px;
+}
